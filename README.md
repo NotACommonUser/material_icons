@@ -189,8 +189,6 @@ p.text
 
 Reference [#9](https://github.com/Angelmmiguel/material_icons/issues/9)
 
-## Couldn't find file 'material_icons'
-
 ```
 couldn't find file 'material_icons' with type 'application/javascript'
 ```
